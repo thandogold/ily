@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Project Two"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "For MY Bub"
+	}
+}
